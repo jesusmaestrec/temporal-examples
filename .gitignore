@@ -1,0 +1,7 @@
+# Ignorar el archivo package-lock.json
+package-lock.json
+
+# Otros archivos y carpetas a ignorar
+node_modules/
+dist/
+.env
